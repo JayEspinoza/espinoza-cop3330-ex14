@@ -27,7 +27,7 @@ public class base {
         double tax = 0.055;
         addedTax = 0;
 
-        // User INput Step
+        // User Input Step
         System.out.printf("What is the order amount? ");
         order = userInput.nextDouble();
 
